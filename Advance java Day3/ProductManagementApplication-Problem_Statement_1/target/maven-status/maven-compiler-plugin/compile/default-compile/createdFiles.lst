@@ -1,4 +1,0 @@
-com\mycompany\app\ProductManagementApp.class
-com\mycompany\dbutil\DBUtil.class
-com\mycompany\domain\Product.class
-com\mycompany\dao\ProductManagementDAO.class
